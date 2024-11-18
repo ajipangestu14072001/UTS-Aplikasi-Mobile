@@ -23,17 +23,17 @@ Berikut adalah beberapa tampilan dari aplikasi yang sudah berjalan:
 ![Screenshot 1](assets/img.png)
 
 ### Tampilan Form Ujian
-![Screenshot 2](assets/img1.png)
+![Screenshot 2](assets/img_1.png)
 
 ### Tampilan Form Ujian Ketika di tampilkan ringkasan tapi belum diisi
-![Screenshot 3](assets/img2.png)
+![Screenshot 3](assets/img_2.png)
 
 ### Tampilan Form Ujian Ketika klik dropwown
-![Screenshot 3](assets/img3.png)
+![Screenshot 3](assets/img_3.png)
 
 ### Tampilan Form Ujian Ketika data diisi
-![Screenshot 3](assets/img4.png)
+![Screenshot 3](assets/img_4.png)
 
 ### Tampilan Ringkasan Data
-![Screenshot 3](assets/img5.png)
+![Screenshot 3](assets/img_5.png)
 
